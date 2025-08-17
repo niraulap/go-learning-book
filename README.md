@@ -1,8 +1,8 @@
-# Go Learning Book 🐹
+# Go Learning Book 
 
 Welcome to your comprehensive Go learning journey! This book is designed to take you from complete beginner to confident Go programmer through hands-on examples and clear explanations.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **macOS** (this guide is written for macOS users)
@@ -26,7 +26,7 @@ Welcome to your comprehensive Go learning journey! This book is designed to take
    go env GOROOT
    ```
 
-## 📚 How to Follow This Book
+## How to Follow This Book
 
 ### **Learning Approach**
 - **Read each chapter** in order (they build on each other)
@@ -44,7 +44,7 @@ Each chapter contains:
 
 ## 📖 Chapter Overview
 
-### **Chapter 1: Hello World** 🐹
+### **Chapter 1: Hello World** 
 - Your first Go program
 - Understanding `package main`
 - The `func main()` entry point
@@ -71,7 +71,7 @@ Each chapter contains:
 - Function scope and visibility
 - Practical function examples
 
-### **Chapter 5: Arrays & Slices** 📊
+### **Chapter 5: Arrays & Slices** 
 - Fixed-size arrays vs dynamic slices
 - Creating and manipulating collections
 - `append()` behavior and capacity
@@ -85,21 +85,21 @@ Each chapter contains:
 - Range loops over maps
 - Maps as function parameters
 
-### **Chapter 7: Structs & Methods** 🏗️
+### **Chapter 7: Structs & Methods** 
 - Custom data types with structs
 - Methods attached to types
 - Struct embedding and composition
 - Advanced patterns (builder, factory)
 - Working with structs and collections
 
-### **Chapter 8: Interfaces** 🔌
+### **Chapter 8: Interfaces** 
 - Behavior contracts in Go
 - Implicit interface implementation
 - Interface composition and embedding
 - The empty interface and type assertions
 - Real-world interface examples
 
-### **Chapter 9: Pointers** 🎯
+### **Chapter 9: Pointers** 
 - Value vs reference types
 - Basic pointer syntax (`&`, `*`)
 - Zero values and nil pointers
@@ -109,7 +109,7 @@ Each chapter contains:
 - Copying vs sharing state
 - Pointer safety features
 
-### **Chapter 10: Error Handling** ⚠️
+### **Chapter 10: Error Handling** 
 - Go's error philosophy (errors as values)
 - Basic error handling patterns
 - Custom error types using structs
@@ -181,7 +181,7 @@ go doc package      # View package documentation
 - **Go Playground**: [play.golang.org](https://play.golang.org)
 - **Go Blog**: [blog.golang.org](https://blog.golang.org)
 
-## 🎯 Learning Path
+## Learning Path
 
 ### **Beginner Level (Chapters 1-4)**
 - Basic syntax and concepts
@@ -198,7 +198,7 @@ go doc package      # View package documentation
 - Memory management with pointers
 - Professional error handling
 
-## 🚀 Next Steps After This Book
+## Next Steps After This Book
 
 ### **Continue Learning**
 - **Testing** - Write tests for your code
@@ -218,7 +218,7 @@ go doc package      # View package documentation
 - **Reddit**: [r/golang](https://reddit.com/r/golang)
 - **Discord**: [Gophers Slack](https://invite.slack.golangbridge.org)
 
-## 📚 Additional Resources
+## Additional Resources
 
 ### **Books**
 - "The Go Programming Language" by Alan Donovan and Brian Kernighan
@@ -237,13 +237,13 @@ go doc package      # View package documentation
 
 ---
 
-## 🎉 You're Ready to Start!
+## You're Ready to Start!
 
 **Begin with Chapter 1: Hello World** and work your way through each chapter. Take your time, practice the examples, and don't hesitate to experiment with the code.
 
 **Remember**: The best way to learn Go is by writing Go code. Run every example, modify the code, and build your own programs.
 
-**Happy coding!** 🐹✨
+**Happy coding!** 
 
 ---
 
